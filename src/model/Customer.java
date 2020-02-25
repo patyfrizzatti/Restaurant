@@ -35,5 +35,5 @@ public class Customer {
 	public String toString() {
 		return "this is the customer " + name;
 	}
-	//hello
+	
 }

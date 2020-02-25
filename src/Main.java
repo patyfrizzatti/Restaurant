@@ -47,7 +47,6 @@ public class Main {
 		
 		System.out.println(t1.isBooked());
 		System.out.println(t1.getBookedBy());
-		System.out.println(t2);
 
 		
 		t2.book(c3);
